@@ -17,7 +17,3 @@
 
 - 统一使用根目录 `biome.json` 管理 format 与 lint 规则
 - 常用命令：`pnpm lint`、`pnpm lint:fix`、`pnpm format`、`pnpm format:check`
-
-## 迁移记录
-
-- 迁移差异清单：`docs/migration-diff.md`
